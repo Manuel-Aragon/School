@@ -1,0 +1,6 @@
+write one or more regular expressions to verify that a given string contains:
+(1) a valid currency
+(2) a vaid date
+(3) a valid telephone number
+and it does NOT contain any html opening tags such as <img> or closing tags such as </img>
+

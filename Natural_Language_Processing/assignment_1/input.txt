@@ -1,0 +1,24 @@
+Here are some examples of a valid currency:
+The total cost for the project came out to $954.49.
+I just received my annual bonus of $10,724.00.
+The company's net worth is currently $1,000,000,023.45.
+The company is currently in debt by -$250,000,456.
+I just received a deposit of $234,922.99 into my account.
+The company's budget for the next fiscal year is USD45M.
+The car I'm interested in buying is priced at $25K.
+The company's revenue for the quarter was $4B.
+Here are some examples of valid dates:
+January 05, 1960 was a cold day, I suppose
+6/1/00 was the middle of the year.
+I do remember 04-Jul, 2004!!
+2021-20-01 was indeed a date.
+Here are some examples of valid phone numbers:
+6012664949 is my phone number.
+For +1 601 266-4949 I added an international code.
+This number here, (601)-266-4949 has parenthesis.
+001-601-266-4949 does not have parenthesis.
+Here are some examples of html opening or closing tags:
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+<title>Title of the document</title>
+<html lang="en">
