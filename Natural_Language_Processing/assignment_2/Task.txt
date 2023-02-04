@@ -1,0 +1,14 @@
+
+This is an individual effort. Collaborations are not allowed.
+Here is the input for the Byte Pair Encoding (BPE) algorithm:
+"Baker Betty Lou bought some butter. But, it made her batter bitter. So, Baker Betty Lou bought 
+some better butter to make her bitter batter better."
+You can either implement BPE in Python or use the pseudo code (from the textbook or the 
+slides) and hand calculate the output. Run the BPE algorithm at least 7 times. That is k should be 
+7 or more. 
+Upload your code with output (Jupyter notebook is welcome) or your detailed hand calculations. 
+Show the initial vocabulary and the vocabulary after each iteration. Show, proof that vocabulary 
+addition is justified at each iteration.
+BPE algorithm is given in slide52 in 2A_TextProc.pptx posted under Module 1 in Canvas. In the textbook 
+it is in Section 2.4.3 on page 18.
+Email me your questions as you are working through the homework.
